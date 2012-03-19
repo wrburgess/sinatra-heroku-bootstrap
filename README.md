@@ -2,10 +2,7 @@
 
 ## about
 * desc: a set of files for quickly deploying sinatra to heroku
-* stack: 
-    * linux
-    * ruby
-    * sinatra
+* stack: heroku, ruby, sinatra
 * docs format: [TomDoc](http://tomdoc.org/)
 
 ## instructions
