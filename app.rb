@@ -1,6 +1,9 @@
 #lib
 require 'sinatra'
 
+#helpers
+require './helpers/helpers'
+
 #config
 class App
   def self.name

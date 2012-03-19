@@ -1,7 +1,7 @@
 # gamepiece
 
 ## about
-* desc: an api for managing items used for point accumulation in gaming
+* desc: a set of files for quickly deploying sinatra to heroku
 * stack: 
     * linux
     * ruby
