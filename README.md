@@ -1,4 +1,4 @@
-# gamepiece
+# sinatra heroku bootstrap
 
 ## about
 * desc: a set of files for quickly deploying sinatra to heroku
