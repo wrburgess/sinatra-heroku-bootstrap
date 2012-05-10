@@ -1,8 +1,8 @@
-#lib
+#gems
 require 'sinatra'
 
-#helpers
-require './helpers/helpers'
+#modules
+require './lib/module'
 
 #config
 class App
